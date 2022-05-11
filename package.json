@@ -1,0 +1,10 @@
+{
+  "name": "auto-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automatically generates file-structure tree and updates read-me",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/Nickolans/auto-tree",
+  "license": "MIT"
+}
